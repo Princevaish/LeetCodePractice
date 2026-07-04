@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/Princevaish/LeetCodePractice/tree/master/0577-employee-bonus) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
