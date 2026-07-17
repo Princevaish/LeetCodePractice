@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Princevaish/LeetCodePractice/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Princevaish/LeetCodePractice/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/Princevaish/LeetCodePractice/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Princevaish/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Princevaish/LeetCodePractice/tree/master/0094-binary-tree-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Princevaish/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
