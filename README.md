@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Princevaish/LeetCodePractice/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Princevaish/LeetCodePractice/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/Princevaish/LeetCodePractice/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Princevaish/LeetCodePractice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Princevaish/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Princevaish/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0179-largest-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Princevaish/LeetCodePractice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
