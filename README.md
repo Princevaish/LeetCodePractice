@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Princevaish/LeetCodePractice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Princevaish/LeetCodePractice/tree/master/0069-sqrtx) |
 ## Trie
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Princevaish/LeetCodePractice/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Princevaish/LeetCodePractice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0098-validate-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Princevaish/LeetCodePractice/tree/master/0162-find-peak-element) |
