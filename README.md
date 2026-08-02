@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Princevaish/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0733-flood-fill](https://github.com/Princevaish/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Princevaish/LeetCodePractice/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Princevaish/LeetCodePractice/tree/master/1020-number-of-enclaves) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Princevaish/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Princevaish/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Princevaish/LeetCodePractice/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Princevaish/LeetCodePractice/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Princevaish/LeetCodePractice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Princevaish/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Princevaish/LeetCodePractice/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Princevaish/LeetCodePractice/tree/master/1020-number-of-enclaves) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Princevaish/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Princevaish/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Princevaish/LeetCodePractice/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Princevaish/LeetCodePractice/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Princevaish/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Princevaish/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Princevaish/LeetCodePractice/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Princevaish/LeetCodePractice/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
