@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Princevaish/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Princevaish/LeetCodePractice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Princevaish/LeetCodePractice/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Princevaish/LeetCodePractice/tree/master/0040-combination-sum-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Princevaish/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0179-largest-number) |
 ## Sorting
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Princevaish/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Princevaish/LeetCodePractice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Princevaish/LeetCodePractice/tree/master/0075-sort-colors) |
 ## Backtracking
