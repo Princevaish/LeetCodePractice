@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Princevaish/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Princevaish/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Princevaish/LeetCodePractice/tree/master/0733-flood-fill) |
+| [0819-most-common-word](https://github.com/Princevaish/LeetCodePractice/tree/master/0819-most-common-word) |
 | [0994-rotting-oranges](https://github.com/Princevaish/LeetCodePractice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Princevaish/LeetCodePractice/tree/master/1020-number-of-enclaves) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Princevaish/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Princevaish/LeetCodePractice/tree/master/0242-valid-anagram) |
+| [0819-most-common-word](https://github.com/Princevaish/LeetCodePractice/tree/master/0819-most-common-word) |
 ## String
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Princevaish/LeetCodePractice/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Princevaish/LeetCodePractice/tree/master/0242-valid-anagram) |
+| [0819-most-common-word](https://github.com/Princevaish/LeetCodePractice/tree/master/0819-most-common-word) |
 ## Greedy
 |  |
 | ------- |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Princevaish/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
+## Counting
+|  |
+| ------- |
+| [0819-most-common-word](https://github.com/Princevaish/LeetCodePractice/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
