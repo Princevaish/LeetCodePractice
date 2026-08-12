@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Princevaish/LeetCodePractice/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Princevaish/LeetCodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Princevaish/LeetCodePractice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Princevaish/LeetCodePractice/tree/master/0075-sort-colors) |
 ## Backtracking
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/Princevaish/LeetCodePractice/tree/master/0819-most-common-word) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Princevaish/LeetCodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
