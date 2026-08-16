@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Princevaish/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Princevaish/LeetCodePractice/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Princevaish/LeetCodePractice/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0179-largest-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Princevaish/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Princevaish/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Princevaish/LeetCodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Princevaish/LeetCodePractice/tree/master/0027-remove-element) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Princevaish/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Princevaish/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Union-Find
 |  |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Princevaish/LeetCodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Princevaish/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
