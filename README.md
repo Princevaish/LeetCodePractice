@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Princevaish/LeetCodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Princevaish/LeetCodePractice/tree/master/0024-swap-nodes-in-pairs) |
 ## Manacher
 |  |
 | ------- |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Princevaish/LeetCodePractice/tree/master/0207-course-schedule) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Princevaish/LeetCodePractice/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
