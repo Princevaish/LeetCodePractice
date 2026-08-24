@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Princevaish/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Princevaish/LeetCodePractice/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Princevaish/LeetCodePractice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Princevaish/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Princevaish/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0819-most-common-word](https://github.com/Princevaish/LeetCodePractice/tree/master/0819-most-common-word) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Princevaish/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Princevaish/LeetCodePractice/tree/master/0094-binary-tree-inorder-traversal) |
 ## Dynamic Programming
 |  |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Princevaish/LeetCodePractice/tree/master/0024-swap-nodes-in-pairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Princevaish/LeetCodePractice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
