@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Princevaish/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Princevaish/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Princevaish/LeetCodePractice/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Princevaish/LeetCodePractice/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Princevaish/LeetCodePractice/tree/master/0200-number-of-islands) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Princevaish/LeetCodePractice/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0136-single-number) |
 ## Sliding Window
 |  |
 | ------- |
