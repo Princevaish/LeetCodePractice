@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Princevaish/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Princevaish/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0819-most-common-word](https://github.com/Princevaish/LeetCodePractice/tree/master/0819-most-common-word) |
+| [0930-binary-subarrays-with-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Princevaish/LeetCodePractice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Princevaish/LeetCodePractice/tree/master/1020-number-of-enclaves) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Princevaish/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Princevaish/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0819-most-common-word](https://github.com/Princevaish/LeetCodePractice/tree/master/0819-most-common-word) |
+| [0930-binary-subarrays-with-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Princevaish/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0930-binary-subarrays-with-sum) |
 ## Counting
 |  |
 | ------- |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Princevaish/LeetCodePractice/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
