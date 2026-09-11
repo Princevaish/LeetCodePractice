@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Princevaish/LeetCodePractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Princevaish/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Princevaish/LeetCodePractice/tree/master/0242-valid-anagram) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Princevaish/LeetCodePractice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0819-most-common-word](https://github.com/Princevaish/LeetCodePractice/tree/master/0819-most-common-word) |
 | [0930-binary-subarrays-with-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0930-binary-subarrays-with-sum) |
 ## String
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Princevaish/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Princevaish/LeetCodePractice/tree/master/0242-valid-anagram) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Princevaish/LeetCodePractice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0819-most-common-word](https://github.com/Princevaish/LeetCodePractice/tree/master/0819-most-common-word) |
 ## Greedy
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Princevaish/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Princevaish/LeetCodePractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Princevaish/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Princevaish/LeetCodePractice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Princevaish/LeetCodePractice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Princevaish/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0930-binary-subarrays-with-sum) |
 ## Counting
