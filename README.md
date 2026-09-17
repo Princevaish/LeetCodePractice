@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Princevaish/LeetCodePractice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Princevaish/LeetCodePractice/tree/master/1020-number-of-enclaves) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Princevaish/LeetCodePractice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Princevaish/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0179-largest-number) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Princevaish/LeetCodePractice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Princevaish/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Princevaish/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Princevaish/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Princevaish/LeetCodePractice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Union-Find
 |  |
 | ------- |
