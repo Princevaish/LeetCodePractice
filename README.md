@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Princevaish/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Princevaish/LeetCodePractice/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Princevaish/LeetCodePractice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0819-most-common-word](https://github.com/Princevaish/LeetCodePractice/tree/master/0819-most-common-word) |
 ## Greedy
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Princevaish/LeetCodePractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Princevaish/LeetCodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Princevaish/LeetCodePractice/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Princevaish/LeetCodePractice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Princevaish/LeetCodePractice/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Princevaish/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Princevaish/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Princevaish/LeetCodePractice/tree/master/0785-is-graph-bipartite) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Princevaish/LeetCodePractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Princevaish/LeetCodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Princevaish/LeetCodePractice/tree/master/0450-delete-node-in-a-bst) |
 ## Stack
 |  |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Princevaish/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Princevaish/LeetCodePractice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Princevaish/LeetCodePractice/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Princevaish/LeetCodePractice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Princevaish/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Princevaish/LeetCodePractice/tree/master/0733-flood-fill) |
@@ -284,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Princevaish/LeetCodePractice/tree/master/0322-coin-change) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
