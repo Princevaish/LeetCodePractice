@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Princevaish/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Princevaish/LeetCodePractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/Princevaish/LeetCodePractice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Princevaish/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Princevaish/LeetCodePractice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Princevaish/LeetCodePractice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Princevaish/LeetCodePractice/tree/master/0191-number-of-1-bits) |
 ## Sliding Window
 |  |
 | ------- |
