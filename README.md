@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Princevaish/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Princevaish/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/Princevaish/LeetCodePractice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Princevaish/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Princevaish/LeetCodePractice/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Princevaish/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Princevaish/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Princevaish/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Princevaish/LeetCodePractice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Princevaish/LeetCodePractice/tree/master/0542-01-matrix) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Princevaish/LeetCodePractice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Union-Find
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Princevaish/LeetCodePractice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Princevaish/LeetCodePractice/tree/master/0796-rotate-string) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
