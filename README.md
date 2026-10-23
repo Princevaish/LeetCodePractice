@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Princevaish/LeetCodePractice/tree/master/0450-delete-node-in-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0993-cousins-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Princevaish/LeetCodePractice/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Princevaish/LeetCodePractice/tree/master/0450-delete-node-in-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0993-cousins-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Princevaish/LeetCodePractice/tree/master/2236-root-equals-sum-of-children) |
 ## Stack
 |  |
 | ------- |
