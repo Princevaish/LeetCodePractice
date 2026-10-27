@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Princevaish/LeetCodePractice/tree/master/0450-delete-node-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0993-cousins-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Princevaish/LeetCodePractice/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Princevaish/LeetCodePractice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Princevaish/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0450-delete-node-in-a-bst](https://github.com/Princevaish/LeetCodePractice/tree/master/0450-delete-node-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Princevaish/LeetCodePractice/tree/master/0450-delete-node-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0993-cousins-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Princevaish/LeetCodePractice/tree/master/2236-root-equals-sum-of-children) |
 ## Stack
