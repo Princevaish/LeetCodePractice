@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Princevaish/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Princevaish/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/Princevaish/LeetCodePractice/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Princevaish/LeetCodePractice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Princevaish/LeetCodePractice/tree/master/0496-next-greater-element-i) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Princevaish/LeetCodePractice/tree/master/0303-range-sum-query-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0930-binary-subarrays-with-sum) |
 ## Algorithm X
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/Princevaish/LeetCodePractice/tree/master/0303-range-sum-query-immutable) |
 ## Monotonic Stack
 |  |
 | ------- |
