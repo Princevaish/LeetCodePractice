@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Princevaish/LeetCodePractice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Princevaish/LeetCodePractice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Princevaish/LeetCodePractice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Princevaish/LeetCodePractice/tree/master/0069-sqrtx) |
 ## Trie
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Princevaish/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Princevaish/LeetCodePractice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Princevaish/LeetCodePractice/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Princevaish/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Princevaish/LeetCodePractice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0416-partition-equal-subset-sum) |
@@ -355,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/Princevaish/LeetCodePractice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Princevaish/LeetCodePractice/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Princevaish/LeetCodePractice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
