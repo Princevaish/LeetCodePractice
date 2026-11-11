@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Princevaish/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Princevaish/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Princevaish/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Princevaish/LeetCodePractice/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Princevaish/LeetCodePractice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0416-partition-equal-subset-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Princevaish/LeetCodePractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Princevaish/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Princevaish/LeetCodePractice/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Princevaish/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Princevaish/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Princevaish/LeetCodePractice/tree/master/0290-word-pattern) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Princevaish/LeetCodePractice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Princevaish/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Princevaish/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Princevaish/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Princevaish/LeetCodePractice/tree/master/0242-valid-anagram) |
 ## Math
 |  |
