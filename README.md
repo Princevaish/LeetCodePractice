@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Princevaish/LeetCodePractice/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Princevaish/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Princevaish/LeetCodePractice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/Princevaish/LeetCodePractice/tree/master/0402-remove-k-digits) |
 | [0583-delete-operation-for-two-strings](https://github.com/Princevaish/LeetCodePractice/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/Princevaish/LeetCodePractice/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/Princevaish/LeetCodePractice/tree/master/0819-most-common-word) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Princevaish/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Princevaish/LeetCodePractice/tree/master/0402-remove-k-digits) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Princevaish/LeetCodePractice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Sorting
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Princevaish/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Princevaish/LeetCodePractice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0402-remove-k-digits](https://github.com/Princevaish/LeetCodePractice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Princevaish/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Princevaish/LeetCodePractice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Princevaish/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
