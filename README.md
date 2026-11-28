@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Princevaish/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Princevaish/LeetCodePractice/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Princevaish/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Princevaish/LeetCodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/Princevaish/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0819-most-common-word](https://github.com/Princevaish/LeetCodePractice/tree/master/0819-most-common-word) |
 | [0930-binary-subarrays-with-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0930-binary-subarrays-with-sum) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Princevaish/LeetCodePractice/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Princevaish/LeetCodePractice/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Princevaish/LeetCodePractice/tree/master/0090-subsets-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Princevaish/LeetCodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Princevaish/LeetCodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Princevaish/LeetCodePractice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Princevaish/LeetCodePractice/tree/master/0583-delete-operation-for-two-strings) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Princevaish/LeetCodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1092-shortest-common-supersequence](https://github.com/Princevaish/LeetCodePractice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Princevaish/LeetCodePractice/tree/master/1143-longest-common-subsequence) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Princevaish/LeetCodePractice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Princevaish/LeetCodePractice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Princevaish/LeetCodePractice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Princevaish/LeetCodePractice/tree/master/0191-number-of-1-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Princevaish/LeetCodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -391,4 +395,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Princevaish/LeetCodePractice/tree/master/0075-sort-colors) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Princevaish/LeetCodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Princevaish/LeetCodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
